@@ -7,17 +7,17 @@ c = int(input("Enter the third side:"))
 if a > b and a > c :
     if b + c > a:
         print(" Triangle is possible ")
-    else:
+    else :
         print(" Triangle is not possible")
 if b > a and b > c :
     if a + c > b:
         print(" Triangle is possible ")
-    else:
+    else :
         print(" Triangle is not possible")
 if c > a and c > b :
     if a + b > c :
         print(" Triangle is possible ")
-    else:
+    else :
         print(" Triangle is not possible")
 
 
