@@ -14,4 +14,3 @@ elif time < 6 :
     print("Total Salary is:",bonus+sal)
 else :
     print("Invalid input")
-    

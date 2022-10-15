@@ -7,3 +7,4 @@ if year > 5 :
     print(" Salary after bonus is Rs", sal + 1000)
 else :
     print(" He/She is not eligible for bonus")
+
