@@ -10,4 +10,4 @@ print(array1[8])       # T
 print(array1[4])       # A
 print(array1[0:4])     # ['V','I','S','W']
 print(array1[-1])      # T
-print(array1[-1:-6])
+print(array1[-5:-1])   # 
