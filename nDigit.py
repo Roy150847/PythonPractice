@@ -1,4 +1,5 @@
 n = int(input(" Enter the number :"))
-l = len(str(n))
-for i in range(1,l+1) :
-    
+while n>=1:
+    d = n % 10
+    n = n // 10
+    print(d)
