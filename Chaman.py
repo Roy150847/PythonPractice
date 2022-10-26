@@ -1,8 +1,13 @@
-x = "friction"
-print(type(x))
-
-x = 120
-print(type(x))
-
-x = 8.2
-print(type(x))
+#print("1")
+print("2")
+#print("3")
+print("4")
+#print("5")
+print("6")
+#print("7")
+print("8")
+#print("9")
+print("10")
+#print("11")
+print("12")
+#print("13")
