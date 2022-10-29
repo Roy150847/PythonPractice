@@ -1,2 +1,4 @@
-x = complex(3,4)
+i = int(input())
+j = int(input())
+x = complex(i,j)
 print(x)
