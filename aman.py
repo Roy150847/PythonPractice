@@ -1,7 +1,4 @@
-p = int(input())
-q = int(input())
-c = p < q
-b = p <= q
-r = c and b
-print(r)
-print(not r)
+n1 = int(input())
+n2 = int(input())
+c = n1 is not n2
+print(n1,"is not",n2,"=",n1 is not n2)
