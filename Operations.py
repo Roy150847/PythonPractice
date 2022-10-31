@@ -7,7 +7,7 @@ hex1 = hex(n1)
 print("Hexadecimal value of n1 =",hex1)
 
 # UNICODE NUMBERS
-#unicode = ord(n)
-#unicode1 = ord(n1)
-#print("Unicode of n =",unicode)
-#print("Unicode of n1 =",unicode1)
+unicode1 = ord(str1)
+unicode2 = ord(str2)
+print("Unicode of str1 =",unicode1)
+print("Unicode of str2 =",unicode2)
