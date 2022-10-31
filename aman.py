@@ -1,4 +1,8 @@
-n1 = int(input())
-n2 = int(input())
-c = n1 is not n2
-print(n1,"is not",n2,"=",n1 is not n2)
+a = int(input())
+n = a
+while n > 0 :
+    d = n % 10
+    print(d)
+    n = n // 10
+print(a//2)
+
