@@ -1,10 +1,9 @@
-n = int(input("Enter the number(n):"))
-n1 = int(input("Enter second number(n1):"))
+str1 = input("Enter the first string(str1):")
+str2 = input("Enter the second string(str2):")
+n1 = int(input("Enter the first integer(n1):"))
 
 # HEXADECIMAL VALUE
-hex = hex(n)
 hex1 = hex(n1)
-print("Hexadecimal value of n =",hex)
 print("Hexadecimal value of n1 =",hex1)
 
 # UNICODE NUMBERS
