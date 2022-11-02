@@ -1,8 +1,6 @@
-a = int(input())
-n = a
-while n > 0 :
-    d = n % 10
-    print(d)
-    n = n // 10
-print(a//2)
-
+n = int(input())
+d = n % 10
+if d % 2 != 0:
+    print(str(n)[0:-1]+"o")
+else :
+    print(n)
