@@ -1,0 +1,6 @@
+R = float(input("Outer radius: "))
+r = float(input("Inner radius: "))
+h = int(input("Height: "))
+v = 3.14 * (R*R-r*r)
+v = "{0:.2f}".format(round(v,2))
+print("Volume:",v)
