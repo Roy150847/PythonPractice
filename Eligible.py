@@ -5,3 +5,4 @@ if per >= 75 :
     print(" The candidate is eligible to take the exams ")
 else :
     print(" The candidate is not eligible to take the exams ")
+    
